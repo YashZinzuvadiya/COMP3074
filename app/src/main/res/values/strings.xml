@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="values">
+        <item>Hello COMP3074</item>
+        <item>It is Alive!</item>
+        <item>Some Other Value </item>
+    </string-array>
+    <string name="app_name">LabEx1v2</string>
+</resources>
